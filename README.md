@@ -1,8 +1,6 @@
 # Reading-List
-An organized list of papers and resources that I have read or want to read.
+An organized list of papers and resources that I have found interesting.
 --------------------------------------------------------------------------------
-
-## Read
 
 ### Genetic Algorithms
 * [Evolving simple programs for playing Atari games](https://arxiv.org/abs/1806.05695):
