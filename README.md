@@ -18,3 +18,6 @@ An organized list of papers and resources that I have found interesting.
 
 ### Generative Modeling
 * [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661): The GAN paper. A GAN consists of a generative neural network that samples from its learned distribution, and a discriminative model that classifies whether the sample is actual data, or from the generative model. By jointly training these two separate networks, the generative network learns a distribution and generates increasingly realistic samples.
+
+### Reinforcement Learning
+* [Optimizing Chemical Reactions with Deep Reinforcement Learning](https://pubs.acs.org/doi/full/10.1021/acscentsci.7b00492): Authors reach new state-of-the-art for optimizing chemical reaction conditions using reinforcement learning and automated microdroplet reaction system. The system selects reaction conditions (in this case flowrate, voltage, pressure) to achieve a target (yield) by iteratively testing new conditions, and then feeding the previous conditions and result to a RNN. The model was pretrained on simulated reactions, but still worked on real reactions and could generalize fairly well to reactions with a completely different mechanism.
