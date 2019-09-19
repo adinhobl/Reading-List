@@ -1,5 +1,5 @@
 # Reading-List
-An organized list of papers and resources that I have found interesting.
+An list of papers and resources that I have found interesting.
 --------------------------------------------------------------------------------
 
 ### Genetic Algorithms
