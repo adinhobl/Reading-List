@@ -1,5 +1,5 @@
 # Reading-List
-An organized list of papers and resources that I have found interesting.
+An list of papers and resources that I have found interesting.
 --------------------------------------------------------------------------------
 
 ### Genetic Algorithms
@@ -21,3 +21,6 @@ An organized list of papers and resources that I have found interesting.
 
 ### Reinforcement Learning
 * [Optimizing Chemical Reactions with Deep Reinforcement Learning](https://pubs.acs.org/doi/full/10.1021/acscentsci.7b00492): Authors reach new state-of-the-art for optimizing chemical reaction conditions using reinforcement learning and automated microdroplet reaction system. The system selects reaction conditions (in this case flowrate, voltage, pressure) to achieve a target (yield) by iteratively testing new conditions, and then feeding the previous conditions and result to a RNN. The model was pretrained on simulated reactions, but still worked on real reactions and could generalize fairly well to reactions with a completely different mechanism.
+
+### Neuroscience
+* [A critique of pure learning and what artificial neuralnetworks can learn from animal brains](https://www.nature.com/articles/s41467-019-11786-6.pdf): A comparison of the way animals learn vs the way ANNs learn, how the genome has been optimized through millions of years to make certain animal learning easier, the duality of learning and evolution.
